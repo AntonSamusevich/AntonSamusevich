@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="bearplays.gif" width="200"/>
-  <h2>Hi there!</h2>
-  <h3>
+  <h1>Hi there!</h1>
+  <h2>
     I’m a Junior Developer from Minsk
     <img src="happy.gif" width="30"/>
-  </h3>
+  </h2>
 </div>
 
 <div id="socials" align="center">
@@ -20,7 +20,7 @@
 </div>
 
 <div id="info">
-  <h3>About me</h3>
+  <h2>About me</h2>
   <ul>
     <li></li>
     <li></li>
@@ -31,7 +31,7 @@
 </div>
 
 <div id="languages">
-  <h3>:hammer_and_wrench:Languages and tools</h3>
+  <h2>:hammer_and_wrench:Languages and tools</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="57" height="57"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" width="57" height="57"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="57" height="57"/>&nbsp;
@@ -48,7 +48,7 @@
 </div>
 
 <div id="stats">
-  <h3>My stats</h3>
+  <h2>My stats</h2>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonSamusevich&theme=vue"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonSamusevich&theme=vue" width="348"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonSamusevich&theme=vue" width="348"/>
