@@ -3,7 +3,7 @@
   <h1>Hi there!</h1>
   <h2>
     I’m a Junior Developer from Minsk
-    <img src="happy.gif" width="30"/><br>
+    <img src="happy.gif" width="30"/><br><br>
     <a href="https://t.me/anthony_storm">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
@@ -14,18 +14,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   </h2>
-</div>
-
-<div id="socials" align="center">
-  <a href="https://t.me/anthony_storm">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCH5mkAcUzGwpYrWGN7peKZQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </div>
 
 <div id="info">
@@ -40,7 +28,7 @@
 </div>
 
 <div id="languages">
-  <h2>:hammer_and_wrench:Languages and tools</h2>
+  <h2>:hammer_and_wrench: Languages and tools</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="57" height="57"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" width="57" height="57"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="57" height="57"/>&nbsp;
@@ -57,7 +45,7 @@
 </div>
 
 <div id="stats">
-  <h2>My stats</h2>
+  <h2>:chart_with_upwards_trend: My stats</h2>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonSamusevich&theme=vue"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonSamusevich&theme=vue" width="348"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonSamusevich&theme=vue" width="348"/>
