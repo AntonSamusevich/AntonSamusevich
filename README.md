@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" width="57" height="57"/>&nbsp;
 </div>
 
-<div id="stats" align="center">
+<div id="stats">
   <h3>My stats</h3>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonSamusevich&theme=vue"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonSamusevich&theme=vue"/>
