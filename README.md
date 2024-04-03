@@ -17,16 +17,20 @@
 </div>
 
 <div id="info">
-  <h3>
-    About me 
-    <img src="happy.gif" width="35" margin-top="30"/>
-  </h3>
+  <h3>About me</h3>
+  <img src="happy.gif" width="35" style="display: block; margin-top: 10px;"/>
   <ul>
     <li>Оранжевый</li>
     <li>Зелёный</li>
     <li>Синий</li>
   </ul>
 </div>
+
+<style>
+  #info img {
+    margin-top: 10px;
+  }
+</style>
 
 <div id="languages">
   <h3>Languages and tools</h3>
