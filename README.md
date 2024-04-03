@@ -3,8 +3,8 @@
   <h1>Hi there!</h1>
   <h2>
     I’m a Junior Developer from Minsk
-    <img src="happy.gif" width="30"/>
-    <a href="https://t.me/anthony_storm"><endl>
+    <img src="happy.gif" width="30"/><br>
+    <a href="https://t.me/anthony_storm">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.youtube.com/channel/UCH5mkAcUzGwpYrWGN7peKZQ">
