@@ -4,6 +4,15 @@
   <h2>
     I’m a Junior Developer from Minsk
     <img src="happy.gif" width="30"/>
+    <a href="https://t.me/anthony_storm">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCH5mkAcUzGwpYrWGN7peKZQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   </h2>
 </div>
 
