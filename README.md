@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="bearplays.gif" width="200"/>
-  <h2">
+  <h2>
     Hi there!
-    <img src="errors.gif" width="50"/>
+    <img src="errors.gif" width="30"/>
   </h2>
   <h3>I’m a Junior Developer from Minsk</h3>
 </div>
