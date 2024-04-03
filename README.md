@@ -17,8 +17,9 @@
 </div>
 
 <div id="info">
-  <h3>About me</h3>
+  <h3>About me
   <img src="happy.gif" width="35" style="display: block; margin-top: 10px;"/>
+  </h3>
   <ul>
     <li>Оранжевый</li>
     <li>Зелёный</li>
