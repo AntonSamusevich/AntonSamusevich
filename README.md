@@ -19,7 +19,7 @@
 <div id="info">
   <h3>
     About me 
-    <img src="happy.gif" width="40"/>
+    <img src="happy.gif" width="40" style="display: block; margin-top: 10px;"/>
   </h3>
   <ul>
     <li>Оранжевый</li>
