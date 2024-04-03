@@ -1,1 +1,3 @@
-<div class="tenor-gif-embed" data-postid="8036879541081501730" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-games-computer-game-laptop-computers-desktop-computer-computer-gif-8036879541081501730">Computer Games Laptop Computers Sticker</a>from <a href="https://tenor.com/search/computer+games-stickers">Computer Games Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div id="header" align="center">
+  <img src="https://tenor.com/view/computer-games-computer-game-laptop-computers-desktop-computer-computer-gif-8036879541081501730">
+</div>
