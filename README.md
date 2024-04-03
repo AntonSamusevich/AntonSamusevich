@@ -31,7 +31,7 @@
 </div>
 
 <div id="languages">
-  <h3>Languages and tools</h3>
+  <h3>:hammer_and_wrench:Languages and tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="57" height="57"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" width="57" height="57"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="57" height="57"/>&nbsp;
