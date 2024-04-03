@@ -18,20 +18,14 @@
 
 <div id="info">
   <h3>About me
-  <img src="happy.gif" width="35" style="display: block; margin-top: 10px;"/>
+    <img src="happy.gif" width="35"/>
   </h3>
   <ul>
-    <li>Оранжевый</li>
-    <li>Зелёный</li>
-    <li>Синий</li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ul>
 </div>
-
-<style>
-  #info img {
-    margin-top: 10px;
-  }
-</style>
 
 <div id="languages">
   <h3>Languages and tools</h3>
