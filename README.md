@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="bearplays.gif" width="200"/>
-  <h1>Hi there!</h1>
-  <h2>
+  <h2>Hi there!</h2>
+  <h3>
     I’m a Junior Developer from Minsk
     <img src="happy.gif" width="30"/><br><br>
     <a href="https://t.me/anthony_storm">
@@ -13,7 +13,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  </h2>
+  </h3>
 </div>
 
 <div id="info">
