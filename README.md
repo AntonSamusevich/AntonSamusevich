@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF3cXpybW84ZTI3ZzNyejZuNzJkZ2lubTQybDVycjJocDY3dXVoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KHtWcGzKMkn153X7kA/giphy.gif">
+  <img src="https://tenor.com/jJQ9Lp66C98.gif">
 </div>
