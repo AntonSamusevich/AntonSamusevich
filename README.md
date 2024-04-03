@@ -17,7 +17,7 @@
 </div>
 
 <div id="info">
-  <h2>About me</h2>
+  <h2>:technologist: About me</h2>
   <ul>
     <li></li>
     <li></li>
