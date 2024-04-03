@@ -18,7 +18,7 @@
 
 <div id="info">
   <h3>About me
-    <img src="happy.gif" width="35"/>
+    <img src="happy.gif" width="25"/>
   </h3>
   <ul>
     <li></li>
