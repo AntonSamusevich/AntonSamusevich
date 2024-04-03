@@ -19,7 +19,7 @@
 <div id="info">
   <h3>
     About me 
-    <img src="happy.gif" width="35"/>
+    <img src="happy.gif" width="35" margin-top="30"/>
   </h3>
   <ul>
     <li>Оранжевый</li>
@@ -27,12 +27,6 @@
     <li>Синий</li>
   </ul>
 </div>
-
-<style>
-  #info img {
-    margin-top: 10px;
-  }
-</style>
 
 <div id="languages">
   <h3>Languages and tools</h3>
