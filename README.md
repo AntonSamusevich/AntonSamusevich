@@ -36,6 +36,6 @@
 <div id="stats">
   <h3>My stats</h3>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonSamusevich&theme=vue"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonSamusevich&theme=vue" width="345"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonSamusevich&theme=vue" width="345"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonSamusevich&theme=vue" width="347"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonSamusevich&theme=vue" width="347"/>
 </div>
