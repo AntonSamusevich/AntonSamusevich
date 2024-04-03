@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="bearplays.gif" width="200"/>
   <h2>Hi there!</h2>
-  <h3>I’m a Junior Developer from Minsk</h3>
+  <h3>
+    I’m a Junior Developer from Minsk
+    <img src="happy.gif" width="30"/>
+  </h3>
 </div>
 
 <div id="socials" align="center">
@@ -17,9 +20,7 @@
 </div>
 
 <div id="info">
-  <h3>About me
-    <img src="happy.gif" width="30"/>
-  </h3>
+  <h3>About me</h3>
   <ul>
     <li></li>
     <li></li>
