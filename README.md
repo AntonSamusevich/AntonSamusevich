@@ -16,6 +16,15 @@
   </a>
 </div>
 
+<div id="info">
+  <h3>About me</h3>
+  <ul>
+    <li>Оранжевый</li>
+    <li>Зелёный</li>
+    <li>Синий</li>
+  </ul>
+</div>
+
 <div id="languages">
   <h3>Languages and tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="57" height="57"/>&nbsp;
