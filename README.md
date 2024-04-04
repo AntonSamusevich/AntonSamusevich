@@ -19,11 +19,11 @@
 <div id="info">
   <h2>:technologist: About me</h2>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>:mortar_board: I study at a prestigious technical university</li>
+    <li>:computer: Work with modern software development technologies</li>
+    <li>:dart: I want to build a successful career in IT</li>
+    <li>:open_book: B1 Intermediate level in English</li>
+    <li>:rocket: Always ready to learn something new and interesting</li>
   </ul>
 </div>
 
